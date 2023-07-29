@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruslan
 - 👀 I’m interested in Web Development and SEO
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on Java Script
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me batoca2019@gmail.com
 
 <!---
